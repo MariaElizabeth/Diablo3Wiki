@@ -823,8 +823,10 @@ if(isset($_POST['meuJSONartisan']))
               <ul class="socialIcons" style="float:right;">
                   <!--Link do perfil do facebook-->
                 <li><a class="fa fa-facebook-square fa" href="https://www.facebook.com/profile.php?id=100009597049659"  style="color:#fff;font-size:28px;"></a></li>   
+               <li><a class="fa fa-linkedin-square fa" href="https://www.linkedin.com/in/maria-elizabeth-da-silva-bezerra-837581125?trk=nav_responsive_tab_profile_pic"  style="color:#fff;font-size:28px;"></a></li> 
               </ul>
-          </ul>
+               </ul>
+           </ul>
         </div>
             
       </div>
